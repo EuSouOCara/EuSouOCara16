@@ -1,3 +1,3 @@
 ### boas vindas ao meu perfil!
 
-# Meu nome é Alex
+- Meu nome é Alex
