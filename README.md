@@ -6,5 +6,7 @@
 - Estou me desenvolvendo na linguagem java script
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo📧
-00001118628512sp@al.educacao.sp.gov.br
+- ### Você pode entrar em contato comigo📧
+- 00001118628512sp@al.educacao.sp.gov.br
+- ![](https://tenor.com/pt-BR/view/silviosantos-gif-5446942)
+
